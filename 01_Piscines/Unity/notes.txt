@@ -1,0 +1,4 @@
+Installation
+Launch the 'Managed Software Center'--> Go to Software --> Install Unity (the MonoDevelop version) --> 
+--> open it and choose the personal edition license
+
